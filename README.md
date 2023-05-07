@@ -5,6 +5,6 @@
 </div> <br />
 
 
-<img style="margin-top: 2rem" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&duration=3000&pause=500&color=FFFFFF&center=false&width=768&height=30&lines=Hello%2C++I'm+Faisal+Tariq!%F0%9F%91%8B;Bringing+your+brand+to+life+online+%F0%9F%93%88+;and+i+Love+the+T3Stack+%F0%9F%9A%80">
+<img style="margin-top: 2rem" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&duration=3000&pause=500&color=FFFFFF&center=false&width=768&height=30&lines=Hello%2C++Me+chamo+Mauricio+Guimarães!%F0%9F%91%8B">
 
  
