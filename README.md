@@ -13,7 +13,7 @@
 
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Angular" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/52111341/236700457-0d20b1ae-ccb2-45b7-a12a-ef595138a3a2.svg" />
-<img align="left" alt="Vue" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/52111341/236700333-1e475245-0dff-481e-aea6-cbc69707a3ee.png" />
+<img align="left" alt="Vue" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/52111341/236700567-b91a6fed-cbc1-411c-b0cf-89c7fa7caf09.svg" />
 <img align="left" alt="Redux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
