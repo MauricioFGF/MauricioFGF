@@ -1,5 +1,5 @@
 
-<img style="margin-top: 2rem" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&duration=3000&pause=500&color=FFFFFF&center=false&width=768&height=30&lines=Olá%2C++Me+chamo+Mauricio+Guimarães!%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;Mais+informações+role+para+baixo">
+<img style="margin-top: 2rem" src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&duration=3000&pause=500&color=FFFFFF&center=false&width=768&height=30&lines=Ol%C3%A1%2C++Me+chamo+Mauricio+Guimar%C3%A3es!%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;Mais+informa%C3%A7%C3%B5es+role+para+baixo">
 
  ---
 
@@ -15,7 +15,7 @@
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="SASS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="MUI" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-<img align="left" alt="TailwindCSS" width="50px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg](https://files.raycast.com/xc28yi9kvhmju8ae1hjixwutznke)" /><br />
+<img align="left" alt="TailwindCSS" width="50px" style="padding-right:10px;" src="https://files.raycast.com/xc28yi9kvhmju8ae1hjixwutznke" /><br />
 
 <br/>
 
